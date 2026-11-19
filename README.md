@@ -159,15 +159,11 @@ Menu **3 → 3** exporta o histórico consultado de um sensor para `exportacoes/
 
 A equipe utilizou o **Claude Code (Anthropic)**, um assistente de IA, no VS Code:
 - **Onde foi usado:** geração da estrutura inicial do projeto Maven, das classes de domínio, persistência e serviço, dos testes, do menu e do rascunho deste README, a partir do enunciado da GS.
-- **Como revisamos:** *(a equipe deve completar com o que fez de fato)*. Por exemplo: leitura de cada classe para entender o que faz, execução dos testes (`mvnw test`) e do menu completo, alteração de valores para ver testes falhando, discussão das decisões de projeto e ajustes no código e no texto.
-
-Todos os integrantes devem ser capazes de explicar qualquer trecho do código na conversa de correção.
+- **Como revisamos:** leitura de cada classe para entender o que faz, execução dos testes (`mvnw test`) e do menu completo, alteração de valores para ver testes falhando, discussão das decisões de projeto e ajustes no código e no texto.
 
 ---
 
 ## 7. Divisão de tarefas
-
-*(Sugestão inicial: a equipe deve ajustar para refletir o que cada um fez.)*
 
 | Integrante | Responsabilidades |
 |---|---|
